@@ -1,0 +1,57 @@
+* {
+	margin:0;
+	padding: 0;
+	font-size: 14px;
+}
+
+.main {
+	width: 100%;
+	padding: 20px;
+	background: #eee;
+}
+.main:after {
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+	clear: both;
+}
+.sidebar {
+	width: 200px;
+	background:#fff;
+	float: left;
+	border-radius: 31px;
+}
+.team-logo {
+	float: left;
+	width:80px;
+	height: 80px;
+	margin:20px;
+}
+h3 {
+	padding-top: 20px;
+}
+.sidebar:after {
+	content: ".";
+	display: block;
+	height:0;
+	visibility: hidden;
+	clear: both;
+} 
+.right {
+	float: right;
+	width: 120px;
+	background: #fff;
+	border: 1px solid black;
+	padding: 20px;
+}
+.right img {
+	float:;
+
+}
+.content {
+	padding: 20px;
+	margin-left: 220px;
+	margin-right: 180px;
+	border: 1px solid red;
+}

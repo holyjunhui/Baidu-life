@@ -1,0 +1,9 @@
+1.提前声明变量
+2.正则表达式
+3.data-属性
+4.innerHTML属性（显示和属性值）
+5.三元符号
+6.event.target属性
+7.call方法
+8.dataset属性
+9.事件委托

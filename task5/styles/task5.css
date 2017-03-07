@@ -35,6 +35,7 @@ nav ul li {
 	line-height: 70px;
 	float: left;
 	margin-right: 20px;
+	list-style: none;
 }
 nav ul li a{
 	color: #FFF;
